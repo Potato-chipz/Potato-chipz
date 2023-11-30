@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Potato-chipz
-- 👀 I’m interested in Software Engineering and Big Data Analysis 
-- 🌱 I’m currently learning C Programming Fundamentals, Pipes, and Threading.
+- 👀 I’m interested in Software Engineering and Big Data Analysis
+- 🌱 I’m currently learning C Programming Fundamentals, Pipes, Threading, Lock & Mutex
+- 🔥 Working on Nanodegree on Udacity regarding SQL and Data Analysis
 
 <!---
 Potato-chipz/Potato-chipz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
