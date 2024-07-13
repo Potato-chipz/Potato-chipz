@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Potato-chipz
-- 👀 I’m interested in Software Engineering and Big Data Analysis
+- 👀 I’m interested in Software Engineering, Big Data Analysis, and Artificial Inteligence
 - 🌱 I’m currently learning C Programming Fundamentals, Pipes, Threading, Lock & Mutex
 - 🔥 Working on Nanodegree on Udacity for SQL and Data Analysis
 
